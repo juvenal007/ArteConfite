@@ -1,0 +1,199 @@
+
+---Archivos descargados---
+Los archivos de importación para Bakes And Cakes Demo ¡han sido descargados correctamente!
+Tiempo máximo de ejecución inicial = 120
+Información de archivos:
+URL del sitio = http://localhost/arteconfite
+Archivo de datos = C:\xampp\htdocs\arteconfite/wp-content/uploads/rara-demo-pack/bakes-and-cakes-demo-content/content/bakesandcakes.xml
+Archivo del widget = C:\xampp\htdocs\arteconfite/wp-content/uploads/rara-demo-pack/bakes-and-cakes-demo-content/content/bakesandcakes.wie
+Archivo del personalizador = C:\xampp\htdocs\arteconfite/wp-content/uploads/rara-demo-pack/bakes-and-cakes-demo-content/content/bakesandcakes.dat
+
+------
+Número de llamada AJAX completado: 1
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar product_type variable
+
+
+------
+Número de llamada AJAX completado: 2
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar product_type variable
+
+
+------
+Número de llamada AJAX completado: 3
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar product_type variable
+
+
+------
+Número de llamada AJAX completado: 4
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar product_type variable
+
+
+------
+Número de llamada AJAX completado: 5
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar product_type variable
+
+
+------
+Número de llamada AJAX completado: 5
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar product_type variable
+
+
+---Importando el contenido---
+[WARNING] Fallo al importar product_visibility exclude-from-catalog
+[WARNING] Fallo al importar product_visibility exclude-from-search
+[WARNING] Fallo al importar product_type external
+[WARNING] Fallo al importar product_visibility featured
+[WARNING] Fallo al importar product_type grouped
+[WARNING] Fallo al importar product_visibility outofstock
+[WARNING] Fallo al importar product_visibility rated-1
+[WARNING] Fallo al importar product_visibility rated-2
+[WARNING] Fallo al importar product_visibility rated-3
+[WARNING] Fallo al importar product_visibility rated-4
+[WARNING] Fallo al importar product_visibility rated-5
+[WARNING] Fallo al importar product_type simple
+[WARNING] Fallo al importar product_cat Uncategorized
+[WARNING] Fallo al importar product_type variable
+[WARNING] Fallo al importar «Choco Cake»: tipo de contenido product no válido
+[WARNING] Fallo al importar «Cup Cake»: tipo de contenido product no válido
+[WARNING] Fallo al importar «Red Velvet»: tipo de contenido product no válido
+[WARNING] Fallo al importar «Cheese cake»: tipo de contenido product no válido
+[WARNING] Fallo al importar «Sirloin Cake»: tipo de contenido product no válido
+[WARNING] Fallo al importar «Pretty Cake »: tipo de contenido product no válido
+[WARNING] Fallo al importar «Cheese Cake»: tipo de contenido product no válido
+[WARNING] Fallo al importar «Lamington cake»: tipo de contenido product no válido
+[WARNING] Fallo al importar «Boston Cream Cake»: tipo de contenido product no válido
+[WARNING] Fallo al importar «Order – January 1, 2017 @ 03:59 AM»: tipo de contenido shop_order no válido
+[WARNING] Fallo al importar «Order – January 5, 2017 @ 04:22 PM»: tipo de contenido shop_order no válido
+[WARNING] Fallo al importar «Order – January 8, 2017 @ 05:14 PM»: tipo de contenido shop_order no válido
+[WARNING] Fallo al importar «Order – January 19, 2017 @ 11:07 AM»: tipo de contenido shop_order no válido
+[WARNING] Fallo al importar «Order – January 23, 2017 @ 10:55 AM»: tipo de contenido shop_order no válido
+[WARNING] Fallo al importar «Order – February 8, 2017 @ 09:01 PM»: tipo de contenido shop_order no válido
+[WARNING] Fallo al importar «Order – February 21, 2017 @ 04:50 PM»: tipo de contenido shop_order no válido
+[WARNING] Fallo al importar «Order – April 5, 2017 @ 05:45 PM»: tipo de contenido shop_order no válido
+[WARNING] Fallo al importar «Order – May 6, 2017 @ 07:09 PM»: tipo de contenido shop_order no válido
+[WARNING] Fallo al importar «Order – May 10, 2017 @ 06:21 PM»: tipo de contenido shop_order no válido
+[WARNING] Fallo al importar «Order – May 12, 2017 @ 10:58 AM»: tipo de contenido shop_order no válido
+[WARNING] Fallo al importar «Order – May 14, 2017 @ 11:40 AM»: tipo de contenido shop_order no válido
+[WARNING] Fallo al importar «Order – May 22, 2017 @ 10:46 AM»: tipo de contenido shop_order no válido
+[WARNING] Fallo al importar «Order – June 4, 2017 @ 01:01 AM»: tipo de contenido shop_order no válido
+[WARNING] Fallo al importar «Order – June 15, 2017 @ 08:12 PM»: tipo de contenido shop_order no válido
+[WARNING] No se ha podido encontrar la entrada principal de «img6» (entrada #98)
+[WARNING] No se ha podido encontrar la entrada principal de «img7» (entrada #103)
+[WARNING] No se ha podido encontrar la entrada principal de «img8» (entrada #107)
+[WARNING] No se ha podido encontrar la entrada principal de «img9» (entrada #109)
+[WARNING] No se ha podido encontrar la entrada principal de «poppy-1819776_1280(1)» (entrada #351)
+[WARNING] No se ha podido encontrar la entrada principal de «blur-1869227_1280(1)» (entrada #352)
+
+Tiempo máximo de ejecución después de la importación del contenido = 300
+
+---Importando los widgets---
+Barra lateral derecha : 
+
+Buscar - No Title - Widget already exists
+Entradas recientes - No Title - Widget already exists
+Comentarios recientes - No Title - Widget already exists
+Archivos - No Title - Widget already exists
+Categorías - No Title - Widget already exists
+Meta - No Title - Widget already exists
+RARA: Enlaces sociales - Social Media - Imported
+RARA: Publicación popular - Most Viewed - Imported
+RARA: Publicación reciente - Recent Posts - Imported
+
+Primer pie de página : 
+
+Texto - Contact Info - Imported
+RARA: Enlaces sociales - Social Media - Imported
+
+Segundo pie de página : 
+
+Texto - Contact Us - Imported
+
+Tercer pie de página : 
+
+Texto - Opening Hours - Imported
+
+
+
+---Importando los ajustes del personalizador---
+¡Finalizada la importación de los ajustes del personalizador!
+
+---rrdi/after_import---
+
